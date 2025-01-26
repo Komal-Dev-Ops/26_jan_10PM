@@ -1,0 +1,24 @@
+Question,Answer
+1. What were some of the key responsibilities and achievements of Komal Mahesh Bhor during her time at Hikal Ltd as a Scientist?,"During her time at Hikal Ltd as a Scientist, some of the key responsibilities and achievements of Komal Mahesh Bhor were:
+- Provisioning 50+ AWS virtual machines, reducing setup time by 30% with automated processes.
+- Automating infrastructure with Terraform, cutting manual effort by 25%.
+- Building and deploying 5+ Dockerized microservices, boosting development speed by 40% and ensuring consistent environments.
+- Optimizing CI/CD pipelines in Jenkins and GitHub Actions, decreasing deployment errors by 15% and improving uptime by 20%.
+- Reducing AWS costs by 10% through resource optimization and scaling.
+- Enhancing cross-team collaboration, reducing integration issues by 35% through consistent workflows."
+2. How did Komal Mahesh Bhor automate infrastructure at Hikal Ltd and what was the impact on manual effort?,"Komal Mahesh Bhor automated infrastructure at Hikal Ltd using Terraform, which helped in cutting manual effort by 25%."
+3. What technologies did Komal Mahesh Bhor use to build and deploy Dockerized microservices at Hikal Ltd?,Komal Mahesh Bhor used Docker to containerize and deploy the microservices at Hikal Ltd.
+4. How did Komal Mahesh Bhor optimize CI/CD pipelines at Hikal Ltd and what were the results in terms of deployment errors and uptime?,Komal Mahesh Bhor optimized the CI/CD pipelines at Hikal Ltd by working on Jenkins and GitHub Actions. The optimization led to a decrease in deployment errors by 15% and an improvement in uptime by 20%.
+5. How did Komal Mahesh Bhor reduce AWS costs at Hikal Ltd and improve cross-team collaboration?,"Komal Mahesh Bhor reduced AWS costs at Hikal Ltd by optimizing resource utilization and scaling. Additionally, she improved cross-team collaboration by enhancing consistent workflows, which reduced integration issues by 35%."
+6. What was Komal Mahesh Bhor's role and key accomplishments at Sai Life Sciences Ltd as a Research Chemist - DevOps?,"Komal Mahesh Bhor's role at Sai Life Sciences Ltd was a Research Chemist - DevOps. Some of the key accomplishments during this role include:
+
+1. Building an MLOps pipeline using machine learning models to detect APS faults.
+2. Automating data ingestion with Kafka and storing 500,000+ sensor records/day in MongoDB.
+3. Containerizing and deploying the ML model using Docker, ensuring consistent environments.
+4. Implementing Prometheus for real-time monitoring and system health tracking.
+5. Ensuring high code quality and automated testing through SonarQube.
+6. Achieving 95% model accuracy for APS fault detection, leading to a 20% reduction in vehicle downtime and improved operational efficiency."
+7. How did Komal Mahesh Bhor automate data ingestion and storage of sensor records at Sai Life Sciences Ltd?,"Komal Mahesh Bhor automated data ingestion and storage of sensor records at Sai Life Sciences Ltd by building an MLOps pipeline using machine learning models to detect APS faults. This involved automating data ingestion with Kafka and storing 500,000+ sensor records per day in MongoDB."
+8. What tools and technologies did Komal Mahesh Bhor use for real-time monitoring and system health tracking at Sai Life Sciences Ltd?,Komal Mahesh Bhor used Prometheus for real-time monitoring and system health tracking at Sai Life Sciences Ltd.
+9. How did Komal Mahesh Bhor ensure high code quality and automated testing at Sai Life Sciences Ltd?,Komal Mahesh Bhor ensured high code quality and automated testing at Sai Life Sciences Ltd by implementing SonarQube for automated testing. This helped in maintaining 95%+ code coverage and improving the overall system reliability.
+10. What were the results of achieving 95% model accuracy for APS fault detection at Sai Life Sciences Ltd in terms of vehicle downtime and operational efficiency?,Achieving 95% model accuracy for APS fault detection at Sai Life Sciences Ltd resulted in a 20% reduction in vehicle downtime and improved operational efficiency.
